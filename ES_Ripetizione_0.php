@@ -133,6 +133,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calcolatore di sconto</title>
+    <link rel="stylesheet" href="stile.css">    <!-- IMPORTANTE!!! -->
 </head>
 <body>
     <h1>CALCOLATORE DI SCONTO</h1>

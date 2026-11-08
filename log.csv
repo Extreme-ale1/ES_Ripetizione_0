@@ -1,0 +1,11 @@
+Data,Prodotto,Prezzo,Sconto,Esito,Risparmio,"Prezzo Finale",Fascia,Errori
+"08/11/2026 17:09:23",Pane,100,10,OK,10,90,PICCOLO," -  - "
+"08/11/2026 17:09:39",Acqua,100,90,OK,90,10,SUPER," -  - "
+"08/11/2026 17:10:00",,,,KO,,,,"Prodotto mancante - Prezzo mancante - Sconto mancante"
+"08/11/2026 17:10:02",rf,,,KO,,,," - Prezzo mancante - Sconto mancante"
+"08/11/2026 17:10:03",rf,,,KO,,,," - Prezzo mancante - Sconto mancante"
+"08/11/2026 17:10:03",rf,,,KO,,,," - Prezzo mancante - Sconto mancante"
+"08/11/2026 17:10:03",rf,,,KO,,,," - Prezzo mancante - Sconto mancante"
+"08/11/2026 17:10:05",rf,f,,KO,,,," - Prezzo non numerico - Sconto mancante"
+"08/11/2026 17:10:07",rf,54,,KO,,,," -  - Sconto mancante"
+"08/11/2026 17:10:09",rf,54,43,OK,23.22,30.78,BUONO," -  - "

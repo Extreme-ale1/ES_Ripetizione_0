@@ -12,6 +12,9 @@ $erroreSconto = "";
 $esito = "";
 
 
+
+// Quando l'utente apre la pagina per la prima volta, la prima parte (questa) viene saltata, pk la richiesta è GET
+// quindi si passa subito alla seconda parte (form)
 if ($_SERVER["REQUEST_METHOD"] == "POST"){
 
     // RECUPERO DEI DATI
